@@ -1,0 +1,106 @@
+#A
+{
+	text-align:center;
+	background: linear-gradient(to right,#005C97,#363795);
+	color: white;
+	
+
+}
+.block
+	{
+		
+		padding: 8px 10px;
+		cursor: pointer;
+		text-align: center;
+		border-radius: 4px;
+		box-sizing: border-box;
+
+	}
+	.input
+	{
+		width: 240px;
+		height: 29px;
+
+
+		}
+.c1
+{
+	background-color: red;
+	color: white;
+	padding: 10px;
+	margin-top: -15px;
+
+}
+a{
+	height: 25px;
+	width: 25px;
+	color: white;
+	padding:;
+	text-decoration: none;
+	margin-right: 20px;
+	text-align: center;
+	/*border: 2px solid white; */
+}
+a:hover
+{
+	background-color: tomato;
+	
+	padding-top: 10px;
+	padding-right: 12px;
+	padding-bottom: 10px;
+}
+#B
+{
+	border-color: black;
+	border-width: 10px;
+	background-color: grey;
+	font-size: 25px;
+	font-weight: 50px;
+}
+span
+{
+	border: 4px dashed #20bcd5;
+	padding: 5px;
+}
+.link_box
+{
+	padding-top: 20px;
+}
+
+div.left {
+width: 20%; 
+padding: 0 0 0 5%;
+float: left}
+div.bottom
+{
+	width:20%;
+	padding: 0 0 10% 0;
+}
+
+div.content {
+width: 40%;
+padding: 0 5%;
+float: left}
+
+div.right {
+width: 20%; 
+padding: 0 5% 0 0;
+float: left
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  text-align: center;
+	font-family: 'Sofia';
+	box-shadow: 1px 2px 4px 1px grey;
+	word-spacing: 3px;
+	margin-left: 1.5%;
+	color: #3f3f3f;
+	background:linear-gradient(to bottom,#87FAFF,white);
+}
+.grid-item {
+  border: 1px solid rgb(0, 0, 0,);
+  padding: 20px;
+  text-align: center;
+}
